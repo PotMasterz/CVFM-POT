@@ -36,12 +36,14 @@ in Jenyee Edit Version you will gain two more features for admin mode
 - Add a wait time to temporary fix f5 spam issues
 - website them back to original
 
---- update plan for 1.1.1 ---
-- Downloading file that is not yours
-- sharing files that is not yours
+--- limitation ---
+- you are restricted from downloading other people file so just copy their code and upload our own
+- you cannot open tab other people file you can only view the file code
+- you cannot view any source of file that is not text
 
 --- update plan for 1.2
-- user are able to change app theme
+- user are able to change app theme color
+- copy button to copy faster
 
 --- Contact ---
 Instagram: @real_jenyee
