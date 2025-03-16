@@ -30,7 +30,11 @@ CVFM-POT Version you will gain two more features for admin mode
 - you cannot open tab other people file you can only view the file code
 
 --- update plan for 1.3 ---
-- coming soon
+- PDF viewer
+- DOCX viewer
+- xlsx viewer
+- csv viewer
+- video viewer
 
 --- Contact ---
 
