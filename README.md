@@ -30,6 +30,11 @@ in Jenyee Edit Version you will gain two more features for admin mode
 - unlock mode (make you able to use parent directories
 - parent directories (allow you to see other people files) (you will be able to rename, edit, delete other people files)
 
+--- version 1.1 update ---
+- Downloading files. (only your files)
+- Quick share download link button. (only your files)
+- Add a wait time to temporary fix f5 spam issues
+
 --- Contact ---
 Instagram: @real_jenyee
 Gmail: zhenyu04920@varee.ac.th
