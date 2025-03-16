@@ -35,12 +35,12 @@ CVFM-POT Version you will gain two more features for admin mode
 --- Contact ---
 
 - Original Recipe:
-Instagram: @sh1nxzql7
-Gmail: Shinnapat06603@varee.ac.th
+- Instagram: @sh1nxzql7
+- Gmail: Shinnapat06603@varee.ac.th
 
 - Hot 'n Spicy Version:
-Instagram: @real_jenyee
-Gmail: zhenyu04920@varee.ac.th
+- Instagram: @real_jenyee
+- Gmail: zhenyu04920@varee.ac.th
 
 --- Legals and Disclaimers ---
 - By using this app, you acknowledge and agree that Shinnapat Chirdchoongam (CVFM App) is not responsible for any damages, losses, or liabilities of any kind, including but not limited to direct, indirect, incidental, consequential, or punitive damages, arising out of or in connection with your use of the app or any information, content, or services provided within it. You are solely responsible for your use of the app and any decisions you make based on information obtained from it.
