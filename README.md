@@ -27,13 +27,21 @@ By using this app, you acknowledge and agree that Shinnapat Chirdchoongam (CVFM 
 
 Don't care about this Legals and Disclaimers
 in Jenyee Edit Version you will gain two more features for admin mode
-- unlock mode (make you able to use parent directories
+- unlock mode (make you able to use parent directories)
 - parent directories (allow you to see other people files) (you will be able to rename, edit, delete other people files)
 
 --- version 1.1 update ---
 - Downloading files. (only your files)
 - Quick share download link button. (only your files)
 - Add a wait time to temporary fix f5 spam issues
+- website them back to original
+
+--- update plan for 1.1.1 ---
+- Downloading file that is not yours
+- sharing files that is not yours
+
+--- update plan for 1.2
+- user are able to change app theme
 
 --- Contact ---
 Instagram: @real_jenyee
