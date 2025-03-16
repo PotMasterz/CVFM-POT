@@ -18,7 +18,6 @@ CVFM-POT Version you will gain two more features for admin mode
 - Downloading files. (only your files)
 - Quick share download link button. (only your files)
 - Add a wait time to temporary fix f5 spam issues
-- website them back to original
 
 -- version 1.2 update ---
 - Customizable Website theme
