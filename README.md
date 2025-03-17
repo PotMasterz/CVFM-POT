@@ -34,6 +34,7 @@ CVFM-POT Version you will gain two more features for admin mode
 - xlsx viewer
 - csv viewer
 - video viewer
+- drag file in and out of foler 
 
 --- Contact ---
 
