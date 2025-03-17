@@ -24,17 +24,19 @@ CVFM-POT Version you will gain two more features for admin mode
 - Copying button for text file in Viewing mode (also work with other people files in their directories)
 - Image viewing in Viewing mode
 
+--- version 1.3 update ---
+- Auto download unviewable files in unsupported browser (pdf, docx, xlsx, etc.)
+- csv viewer
+- move button to move files in and out of folders 
+
 --- limitation ---
 - you are restricted from downloading other people file so just copy their code and upload our own
 - you cannot open tab other people file you can only view the file code
+- the server prevent me from making audio and video viewer so yeah you can't do that.
 
---- update plan for 1.3 ---
-- PDF viewer
-- DOCX viewer
-- xlsx viewer
-- csv viewer
-- video viewer
-- drag file in and out of foler 
+--- version 1.4 update plan ---
+- folder downloadable as .zip file
+- extract zip button for zip folder getting uploaded to the website
 
 --- Contact ---
 
