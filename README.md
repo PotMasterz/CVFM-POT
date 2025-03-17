@@ -46,6 +46,11 @@ CVFM-POT Version you will gain two more features for admin mode
 - Gmail: zhenyu04920@varee.ac.th
 
 --- Legals and Disclaimers ---
-- By using this app, you acknowledge and agree that Shinnapat Chirdchoongam (CVFM App) is not responsible for any damages, losses, or liabilities of any kind, including but not limited to direct, indirect, incidental, consequential, or punitive damages, arising out of or in connection with your use of the app or any information, content, or services provided within it. You are solely responsible for your use of the app and any decisions you make based on information obtained from it.
+- Unauthorized Modification, Exploitation, and Reverse Engineering Notice
 
-- By using this app, you acknowledge and agree that Lee Zhen Yu  Lee (CVFM-POT App) is not responsible for any damages, losses, or liabilities of any kind, including but not limited to direct, indirect, incidental, consequential, or punitive damages, arising out of or in connection with your use of the app or any information, content, or services provided within it. You are solely responsible for your use of the app and any decisions you make based on information obtained from it.
+- You are strictly prohibited from modifying, reverse engineering, decompiling, disassembling, or exploiting this program in any manner. Any attempt to manipulate, exploit vulnerabilities, or bypass security measures of this software is illegal and may result in severe legal consequences, including civil and criminal penalties.
+
+- Unauthorized alterations, reproduction, or distribution of this software are also strictly forbidden. By using this program, you agree to comply with all applicable laws and regulations regarding intellectual property, cybersecurity, and software protection. Any violation of these terms may lead to immediate termination of your license and potential legal action.
+
+- By using this app, you acknowledge and agree that Shinnapat Chirdchoongam (CVFM App) Lee Zhen Yu  Lee (CVFM-POT App) is not responsible for any damages, losses, or liabilities of any kind, including but not limited to direct, indirect, incidental, consequential, or punitive damages, arising out of or in connection with your use of the app or any information, content, or services provided within it. You are solely responsible for your use of the app and any decisions you make based on information obtained from it.
+
